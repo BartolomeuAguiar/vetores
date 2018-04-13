@@ -1,5 +1,7 @@
 package br.com.caelum.ed.vetores;
 
+import java.util.Arrays;
+
 import br.com.caelum.ed.Aluno;
 
 public class Vetor {
@@ -36,6 +38,10 @@ public class Vetor {
 	public int tamanho() {
 		//implementação
 		return 0;
+	}
+	
+	public String toString() {
+		return Arrays.toString(alunos);
 	}
 
 }
