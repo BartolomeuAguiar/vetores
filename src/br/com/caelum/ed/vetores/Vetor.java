@@ -6,6 +6,7 @@ import br.com.caelum.ed.Aluno;
 
 public class Vetor {
 
+	//inicialização de um array de alunos com 100 posições
 	private Aluno[] alunos = new Aluno[100];
 
 	public void adiciona(Aluno aluno) {
