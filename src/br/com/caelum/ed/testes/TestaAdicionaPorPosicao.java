@@ -10,7 +10,7 @@ public class TestaAdicionaPorPosicao {
 		Aluno a3 = new Aluno();
 		
 		a1.setNome("Rafael");
-		a2.setNome("Paulo")
+		a2.setNome("Paulo");
 		a3.setNome("Ana");
 		
 		Vetor lista = new Vetor();
